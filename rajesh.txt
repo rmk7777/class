@@ -1,2 +1,7 @@
 2nd year
+<<<<<<< HEAD
 i have done a change
+=======
+new change done
+3rd change is here
+>>>>>>> master
